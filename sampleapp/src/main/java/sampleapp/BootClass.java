@@ -10,7 +10,7 @@ public class BootClass {
 	
 	public static void show() {
 		int sum=0;
-		int[] arr= {10,20,30,40};
+		int[] arr= {1,2,3,4,5};
 		for(int i:arr) {
 			sum+=i;
 			System.out.println(i);
